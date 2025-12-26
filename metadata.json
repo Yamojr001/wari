@@ -1,0 +1,9 @@
+
+{
+  "name": "Wari Insurance Agency",
+  "description": "A professional and reliable insurance agency website providing auto, home, business, life, and health insurance services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
