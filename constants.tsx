@@ -47,7 +47,7 @@ export const AGENCY_INFO = {
   name: 'Wari Insurance Agency',
   tagline: 'Reliable coverage for every stage of life and business.',
   email: 'quote@wariinsurance.com',
-  phone: '(973) 391-9595',
+  phone: ' 973-810-6762',
   location: '675 Bergen Street, Newark, NJ 07108',
   logoUrl: 'https://drive.google.com/uc?id=1z7Zh7YjUDJYLwfTe0Qp1hP47jTaRNofk'
 };

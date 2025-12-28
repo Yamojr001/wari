@@ -8,7 +8,7 @@ const WhyChooseUs: React.FC = () => {
         <div className="order-2 lg:order-1">
           <div className="grid grid-cols-2 gap-4">
             <img 
-              src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
+              src="https://wariinsurance.com/girls.jpeg" 
               alt="Insurance Consultation" 
               className="rounded-2xl shadow-lg mt-8"
             />
